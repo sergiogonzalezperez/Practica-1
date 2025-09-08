@@ -1,0 +1,8 @@
+#res1, #res2, #res3{
+    background-color: lightgray;
+    color: black;
+    margin-top: 10px;
+    border-radius: 8px;
+    width: 25%;
+    height: 150px;
+}
