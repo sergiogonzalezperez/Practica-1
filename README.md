@@ -4,6 +4,10 @@ MainconSesiones.php <br>
 Main <br>
 <img width="736" height="829" alt="image" src="https://github.com/user-attachments/assets/cb50f1c5-5ce8-4674-8e1c-c45f12b026bc" />
 
+Main con Hipervinculos a archivos PHP <br>
+<img width="730" height="754" alt="image" src="https://github.com/user-attachments/assets/dee66a6c-a23d-471e-ac23-d05f777ffa8a" />
+
+
 AppWeb 1 <br>
 <img width="452" height="225" alt="image" src="https://github.com/user-attachments/assets/6a470823-3f8f-418a-a14d-a59201e669b2" />
 
