@@ -1,3 +1,6 @@
+MainconSesiones.php <br>
+<img width="863" height="986" alt="image" src="https://github.com/user-attachments/assets/357bf87b-49ae-418a-b529-3efadc21db34" />
+
 AppWeb 1 <br>
 <img width="452" height="225" alt="image" src="https://github.com/user-attachments/assets/6a470823-3f8f-418a-a14d-a59201e669b2" />
 
